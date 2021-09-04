@@ -10,7 +10,7 @@ class Programmer:
     def getInfo(self):
         print(f"The name of the programmer is {self.name}, the product of the programmer is {self.product} ")
 
-ram = Programmer("Ram", "skype")
+rani = Programmer("Rani", "skype")
 sia = Programmer("Sia", "canva")
-ram.getInfo()
+rani.getInfo()
 sia.getInfo()
