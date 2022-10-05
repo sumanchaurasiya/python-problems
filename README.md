@@ -38,3 +38,9 @@ Reference Links:-
 - Project 10 - Binary to Decimal Converter
 - Project 11 - BMI Calculator
 - Project 12 - Image to PDF Converter
+
+## Contributors ✨
+
+SR No   | Program | Author  
+--- | --- | ---
+1 | Generate colored text, bold, italic, faint, blink on terminal | [Diwakar Kumar](https://github.com/diwakar1593)
