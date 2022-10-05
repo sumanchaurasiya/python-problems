@@ -31,4 +31,10 @@ Reference Links:-
 - Project 3 - Quiz
 - Project 4 - Clock
 - Project 5 -  QR Code
-- Project 6 - Image to PDF Converter
+- Project 6 - Pronic Number
+- Project 7 - Reverse a Number
+- Project 8 - Perfect Number
+- Project 9 - Display Calender
+- Project 10 - Binary to Decimal Converter
+- Project 11 - BMI Calculator
+- Project 12 - Image to PDF Converter
